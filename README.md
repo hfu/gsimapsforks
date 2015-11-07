@@ -1,2 +1,112 @@
 # gsimapsforks
 forks of gsimaps, via GitHub API and in Ruby
+
+## How to use
+```sh
+$ ruby forks.rb
+gsimaps has 102 forks.
+miya0001: https://github.com/miya0001/gsimaps
+fumi: https://github.com/fumi/gsimaps
+sakano-y0003: https://github.com/sakano-y0003/gsimaps
+kimiyuki: https://github.com/kimiyuki/gsimaps
+arara0123: https://github.com/arara0123/gsimaps
+nobutakaoshiro: https://github.com/nobutakaoshiro/gsimaps
+n-niibe: https://github.com/n-niibe/gsimaps
+mapconcierge: https://github.com/mapconcierge/gsimaps
+magepa: https://github.com/magepa/gsimaps
+0kawana: https://github.com/0kawana/gsimap
+2525map: https://github.com/2525map/gsimaps
+HaradaHideo: https://github.com/HaradaHideo/gsimaps
+yasoshima: https://github.com/yasoshima/gsimaps
+crisismappersjapan: https://github.com/crisismappersjapan/gsimaps
+tkmoda: https://github.com/tkmoda/gsimaps
+sagara1020: https://github.com/sagara1020/gsimaps
+Yunie564: https://github.com/Yunie564/gsimaps
+mayumikubo: https://github.com/mayumikubo/gsimaps
+mamix1116: https://github.com/mamix1116/gsimaps
+ndr2184: https://github.com/ndr2184/gsimaps
+ghnocchi: https://github.com/ghnocchi/gsimaps
+jak-carter18: https://github.com/jak-carter18/gsimaps
+hwakui: https://github.com/hwakui/gsimaps
+hirogiant01tcr: https://github.com/hirogiant01tcr/gsimaps
+kohakurei: https://github.com/kohakurei/gsimaps
+doumoto: https://github.com/doumoto/gsimaps
+hookawa: https://github.com/hookawa/gsimaps
+Kenya39: https://github.com/Kenya39/gsimaps
+tohka: https://github.com/tohka/gsimaps
+Kenyat1989: https://github.com/Kenyat1989/gsimaps
+kurohune538: https://github.com/kurohune538/gsimaps
+ValueCreation: https://github.com/ValueCreation/gsimaps
+tosseto: https://github.com/tosseto/gsimaps
+picaosgeo: https://github.com/picaosgeo/gsimaps
+foss4g-tokyo-vt: https://github.com/foss4g-tokyo-vt/gsimaps
+iharada: https://github.com/iharada/gsimaps
+nanosyan: https://github.com/nanosyan/gsimaps
+frogcat: https://github.com/frogcat/gsimaps
+jnn1x0: https://github.com/jnn1x0/gsimaps
+ddd4423: https://github.com/ddd4423/gsimaps
+urasoe: https://github.com/urasoe/gsimaps
+hfu: https://github.com/hfu/gsimaps
+maichitho: https://github.com/maichitho/gsimaps
+kenkou25: https://github.com/kenkou25/gsimaps
+MilkRich: https://github.com/MilkRich/gsimaps
+gsc-aoyama: https://github.com/gsc-aoyama/gsimaps
+chama0918: https://github.com/chama0918/gsimaps
+yugimurao: https://github.com/yugimurao/gsimaps
+yukoops: https://github.com/yukoops/gsimaps
+yoshiaki6868: https://github.com/yoshiaki6868/gsimaps
+odamamiko: https://github.com/odamamiko/gsimaps
+MarikoKawasaki: https://github.com/MarikoKawasaki/gsimaps
+CodeForChofu: https://github.com/CodeForChofu/gsimaps
+mmatsuko: https://github.com/mmatsuko/gsimaps
+Misa0716: https://github.com/Misa0716/gsimaps
+natsumiiiii: https://github.com/natsumiiiii/gsimaps
+kaichiabe: https://github.com/kaichiabe/gsimaps
+riku1996: https://github.com/riku1996/gsimaps
+reminvoooo: https://github.com/reminvoooo/gsimaps
+take-agu: https://github.com/take-agu/gsimaps
+MasaakiKawahara: https://github.com/MasaakiKawahara/gsimaps
+shusuke90: https://github.com/shusuke90/gsimaps
+Wataryo: https://github.com/Wataryo/gsimaps
+chaaai: https://github.com/chaaai/gsimaps
+tsukito: https://github.com/tsukito/gsimaps
+Mikako0121: https://github.com/Mikako0121/gsimaps
+yuuuuka: https://github.com/yuuuuka/gsimaps
+Hiroto87: https://github.com/Hiroto87/gsimaps
+rionsugi816: https://github.com/rionsugi816/gsimaps
+taroken: https://github.com/taroken/gsimaps
+rinac2idtm: https://github.com/rinac2idtm/gsimaps
+kuma03: https://github.com/kuma03/gsimaps
+mizu87: https://github.com/mizu87/gsimaps
+YuyaKomagata: https://github.com/YuyaKomagata/gsimaps
+1A115229: https://github.com/1A115229/gsimaps
+mirin0530: https://github.com/mirin0530/gsimaps
+KOK902: https://github.com/KOK902/gsimaps
+kaorusaito: https://github.com/kaorusaito/gsimaps
+amekid: https://github.com/amekid/gsimaps
+Reve1811: https://github.com/Reve1811/gsimaps
+aozoraowas: https://github.com/aozoraowas/gsimaps
+gellz01: https://github.com/gellz01/gsimaps
+araitomoaki: https://github.com/araitomoaki/gsimaps
+akymdic27: https://github.com/akymdic27/gsimaps
+15kaz310: https://github.com/15kaz310/gsimaps
+ryo1062: https://github.com/ryo1062/gsimaps
+MAPconciergeInc: https://github.com/MAPconciergeInc/gsimaps
+agxo: https://github.com/agxo/gsimaps
+yutetu: https://github.com/yutetu/gsimaps
+furuhashilab: https://github.com/furuhashilab/gsimaps
+zeasdale: https://github.com/zeasdale/gsimaps
+n-imai: https://github.com/n-imai/gsimaps
+hideokamoto: https://github.com/hideokamoto/gsimaps
+wata909: https://github.com/wata909/gsimaps
+nyampire: https://github.com/nyampire/gsimaps
+shigekun: https://github.com/shigekun/gsimaps
+shimizu: https://github.com/shimizu/gsimaps
+office-shirado: https://github.com/office-shirado/gsimaps
+harutama: https://github.com/harutama/gsimaps
+trmmy: https://github.com/trmmy/gsimaps
+tmizu23: https://github.com/tmizu23/gsimaps
+```
+seems to me the fork of fork is not shown in the list; e.g. https://github.com/smellman/gsimaps
+
+## Hi, forks!
